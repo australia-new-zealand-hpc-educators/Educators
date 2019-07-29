@@ -1,4 +1,4 @@
-# A Learner's self-efficacy should equate with external assessment
+# Proposition: A Learner's self-efficacy should equate with external assessment
 
 * Self-efficiacy is a learner's belief that they can or cannot accomplish a task.
 * Structured and integrated knowledge (c.f., content.md) provides the metacognitive process monitoring and evaluating one's own learning.
@@ -14,7 +14,7 @@ Schunk, D. H. & Pajares, F. (2004). Self-efficacy in education revisited: Empiri
   
 Zimmerman, B. J. (1998). Academic studying and the development of personal skill: A self-regulatory perspective. Educational Psychologist, 33(2/3), 73–80.
 
-# Assessment must move away from summative assessment only
+# Proposition: Assessment must move away from summative assessment only
 
 * Summative assessment only is experienced as "rewards and punishments".
 * Assessments should be orientated towards being a part of the teaching process, orientated towards increasingly higher levels of cognitive ability. (application and analysis, synthesis, evaluation).
