@@ -1,10 +1,8 @@
 # Proposition: Learners construct knowledge
 
-Structural knowledge is achieved when knowledge exists in an embedded organised structure with other knowledge, and can be built to acquire further knowledge, distinct from rote and recognition knowledge.
-
-Structured knowledge is what distinguishes the novice from the expert, because they have "deep knowledge" (i.e., that which is integrated) isn't stratching around on "surface features of a problem or bits of information".
-
-Do not introduce new content to a subject before the pre-requisite content has been understood.
+* Structural knowledge is achieved when knowledge exists in an embedded organised structure with other knowledge, and can be built to acquire further knowledge, distinct from rote and recognition knowledge.
+* Structured knowledge is what distinguishes the novice from the expert, because they have "deep knowledge" (i.e., that which is integrated) isn't stratching around on "surface features of a problem or bits of information".
+* Do not introduce new content to a subject before the pre-requisite content has been understood.
 
 ## References
 
