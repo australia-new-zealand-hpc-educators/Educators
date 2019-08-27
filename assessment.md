@@ -14,9 +14,10 @@ Schunk, D. H. & Pajares, F. (2004). Self-efficacy in education revisited: Empiri
   
 Zimmerman, B. J. (1998). Academic studying and the development of personal skill: A self-regulatory perspective. Educational Psychologist, 33(2/3), 73–80.
 
-# Proposition: Assessment must move away from summative assessment only
+# Proposition: There is a distinction between formative and summative assessment
 
-* Summative assessment only is experienced as "rewards and punishments".
+* Formative assessment should test whether the learner gets the right answer.
+* Summative assessment should test whether the learner understands the concepts.
 * Assessments should be orientated towards being a part of the teaching process, orientated towards increasingly higher levels of cognitive ability. (application and analysis, synthesis, evaluation).
 
 ## References
